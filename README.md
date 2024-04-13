@@ -1,4 +1,6 @@
 # Capstone Project
+![image](https://github.com/DASARIUDAYPRAKASH/Netflix-Project/assets/130547847/ca60f935-2571-441a-8cf1-02c3f4adbb61)
+
 ## NETFLIX MOVIE RECOMNDATION SYSTEM
 
 ## Table Of Contents
